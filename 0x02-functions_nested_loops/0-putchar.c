@@ -2,8 +2,9 @@
 
 
 /**
- * main - prints putchar
- * Return: always 0
+ * main - Entry point
+ *
+ * Return: nothing, return void
  */
 
 int main(void)
